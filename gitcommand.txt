@@ -1,2 +1,6 @@
 git command file
 hello python >> hello git
+
+git init
+git add .
+git commit -m "    "
